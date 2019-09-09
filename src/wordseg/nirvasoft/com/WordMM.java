@@ -1,5 +1,4 @@
 package wordseg.nirvasoft.com;
-
 import java.util.ArrayList;
 public class WordMM {
 	static ArrayList<String> sMerge(ArrayList<String> ar){
